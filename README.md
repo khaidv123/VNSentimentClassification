@@ -1,5 +1,10 @@
 # VNSentimentClassification
 
+## Thành viên
+- Dương Minh Đức – 22022606
+- Nguyễn Việt Bắc – 22022511
+- Đặng Văn Khải – 22022550
+
 ## Project goals
 Phân loại cảm xúc của các bình luận trên mạng xã hội, Tiktok, Facebook,...
 
