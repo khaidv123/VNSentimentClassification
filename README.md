@@ -23,5 +23,6 @@ Phân loại cảm xúc của các bình luận trên mạng xã hội, Tiktok, 
 ![Modules](https://github.com/khaidv123/VNSentimentClassification/assets/111173070/ce7e426d-f645-42c6-b695-5a166e28d549)
 
 ## Demo
+https://huggingface.co/spaces/Khaidv/VietnamSentimentClassification
 ![Demo](https://github.com/khaidv123/VNSentimentClassification/assets/111173070/155027e4-90c5-4b5d-8e60-7e995f4e91c0)
 
