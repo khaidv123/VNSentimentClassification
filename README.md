@@ -20,7 +20,8 @@ Phân loại cảm xúc của các bình luận trên mạng xã hội, Tiktok, 
 8. Tuning Hyper-parameter
 9. Xây dựng giao diện, tích hợp model
 
-![Modules](https://github.com/khaidv123/VNSentimentClassification/assets/111173070/ce7e426d-f645-42c6-b695-5a166e28d549)
+![image](https://github.com/khaidv123/VNSentimentClassification/assets/111173070/8d616978-5918-4d0d-ba92-2bf3ce2b8f4e)
+
 
 ## Demo
 - Test demo
